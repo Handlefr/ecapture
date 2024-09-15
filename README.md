@@ -1,4 +1,4 @@
-![](./images/ecapture-logo-400x400.png)
+e![](./images/ecapture-logo-400x400.png)
 
 [简体中文](./README_CN.md) | English | [日本語](./README_JA.md)
 
